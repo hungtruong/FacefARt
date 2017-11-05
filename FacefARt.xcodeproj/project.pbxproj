@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		197E0D9A1FAE93A600EAA4CE /* license.txt in Resources */ = {isa = PBXBuildFile; fileRef = 197E0D991FAE93A600EAA4CE /* license.txt */; };
+		197E0D9A1FAE93A600EAA4CE /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 197E0D991FAE93A600EAA4CE /* LICENSE.md */; };
 		1983E2DB1FAD31A200263581 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1983E2DA1FAD31A200263581 /* AppDelegate.swift */; };
 		1983E2DD1FAD31A200263581 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1983E2DC1FAD31A200263581 /* ViewController.swift */; };
 		1983E2E01FAD31A200263581 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1983E2DE1FAD31A200263581 /* Main.storyboard */; };
@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		197E0D981FAE42E200EAA4CE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		197E0D991FAE93A600EAA4CE /* license.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = license.txt; sourceTree = "<group>"; };
+		197E0D991FAE93A600EAA4CE /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		1983E2D71FAD31A200263581 /* FacefARt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FacefARt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1983E2DA1FAD31A200263581 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1983E2DC1FAD31A200263581 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				197E0D981FAE42E200EAA4CE /* README.md */,
-				197E0D991FAE93A600EAA4CE /* license.txt */,
+				197E0D991FAE93A600EAA4CE /* LICENSE.md */,
 				1983E2D91FAD31A200263581 /* FacefARt */,
 				1983E2D81FAD31A200263581 /* Products */,
 				1983E2EC1FAD329000263581 /* Frameworks */,
@@ -140,7 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				197E0D9A1FAE93A600EAA4CE /* license.txt in Resources */,
+				197E0D9A1FAE93A600EAA4CE /* LICENSE.md in Resources */,
 				1983E2E51FAD31A200263581 /* LaunchScreen.storyboard in Resources */,
 				1983E2E21FAD31A200263581 /* Assets.xcassets in Resources */,
 				1983E2E01FAD31A200263581 /* Main.storyboard in Resources */,
