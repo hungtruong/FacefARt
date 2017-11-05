@@ -16,6 +16,11 @@ The FacefARt app works by beginning an ARKit session, running the ARSCNView's se
 
 We only care about the `ARFaceAnchor.BlendShapeLocation.mouthClose` value which gives us the "openness" of the user's mouth. When the user opens their mouth, we start playing a fart sound. When we get an update with the `mouthClose` value such that we detect the user has closed their mouth, we stop the fart sound. It's a really long fart sound so if you leave your mouth open it'll fart for a while.
 
+## Video Demo
+
+[![FacefARt Demo Video](http://img.youtube.com/vi/nAsaInywFn0/maxresdefault.jpg)](https://youtu.be/nAsaInywFn0 "TouchFart")
+
+
 ## Further Reading
 
 * [Creating Face-Based AR Experiences](https://developer.apple.com/documentation/arkit/creating_face_based_ar_experiences) - Apple's sample code on how to use the ARKit Face stuff.
