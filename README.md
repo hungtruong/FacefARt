@@ -1,5 +1,7 @@
 # FacefARt
 
+![FacefARt Icon](https://raw.githubusercontent.com/hungtruong/FacefARt/master/FacefARt/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
+
 FacefARt is an app for the iPhone X that demonstrates the potential of the TrueDepth front-facing camera and ARKit to make the user's face fart when they open their mouth.
 
 ## Getting Started
@@ -18,14 +20,12 @@ We only care about the `ARFaceAnchor.BlendShapeLocation.mouthClose` value which 
 
 ## Video Demo
 
-[![FacefARt Demo Video](http://img.youtube.com/vi/nAsaInywFn0/maxresdefault.jpg)](https://youtu.be/nAsaInywFn0 "TouchFart")
+[![FacefARt Demo Video](http://img.youtube.com/vi/nAsaInywFn0/maxresdefault.jpg)](https://youtu.be/nAsaInywFn0 "FacefARt")
 
 
 ## Further Reading
 
 * [Creating Face-Based AR Experiences](https://developer.apple.com/documentation/arkit/creating_face_based_ar_experiences) - Apple's sample code on how to use the ARKit Face stuff.
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
